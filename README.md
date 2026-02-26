@@ -1,4 +1,4 @@
-🚦 **Traffic Light Controller (Verilog – FSM Based)**
+# 🚦Traffic Light Controller (Verilog – FSM Based)
 
 A simple Finite State Machine (FSM) based Traffic Light Controller designed in Verilog to manage signals for a Highway (HW) and a Crossroad (CR).
 
